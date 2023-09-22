@@ -1,0 +1,6 @@
+Removal change template
+~~~~~~~~~~~~~~~~~~~~~~~
+
+ @_api.delete_parameter("3.7", "raw") was removed from gridpec.py
+ and
+ _api.warn_deprecated function removed from _fontcongif_patterns.py
